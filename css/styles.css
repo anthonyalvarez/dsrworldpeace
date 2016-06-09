@@ -1,0 +1,60 @@
+a:link    {
+    text-decoration: none; 
+	font-family: Arial, Helvetica, Verdana, Helvetica, Trebuchet MS, Times New Roman; 
+	font-size: 9pt; color: #000000;
+}
+a:visited  {
+	text-decoration: none; 
+	color: #a91515;
+}
+ a:active  {
+ 	color:#a91515;
+}
+ a:hover  {
+ 	color:#a91515;
+}
+ table { 
+ 	 font-family: sans-serif, Verdana, Helvetica, Trebuchet MS, Times New Roman; 
+	 font-size: 9pt; 
+	 color: #000000;
+}
+ td { 
+ 	 font-family: Arial, Helvetica, "MS Sans Serif", Verdana, "Times New Roman"; 
+	 font-size: 9pt; 
+	 color: #000000;
+}
+
+body { 
+	 font-family: sans-serif, Verdana, Helvetica, Trebuchet MS, Times New Roman; 
+	 font-size: 9pt;
+	 color: #000000;
+}
+
+.footer {
+	color: #a91515;
+	font-size: 11px;
+}
+
+
+	#triggers {
+		margin-top:10px;
+		text-align:center;
+	}
+	
+	#triggers img {
+		background-color:#fff;
+		radius:20px;
+		padding:2px;
+		border:1px solid #ccc;
+		margin:2px 5px;
+		cursor:pointer;
+		-moz-border-radius:10px;
+				
+                -ms-border-radius: 10px;
+                -o-border-radius: 10px;
+                -webkit-border-radius: 10px;
+                border-radius: 10px;
+    
+
+	}
+.hidden { display: none }
